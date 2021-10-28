@@ -1,3 +1,4 @@
+//First published go package.
 package main
 
 import (
